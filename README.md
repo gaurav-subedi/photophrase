@@ -1,5 +1,6 @@
 # Photophrase
 Demo : https://youtube.com/shorts/neYQvhaiuHE
+
 A simple React Native app that lets you snap or pick a photo, generates an AI-powered caption using your own Flask-based captioning API, and saves your favorite image+caption pairs locally.
 
 ## Features
